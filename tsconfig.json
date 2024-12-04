@@ -25,6 +25,8 @@
         "annotateForClosureCompiler": true,
         "strictMetadataEmit": true,
         "flatModuleOutFile": "ngx-image-drawing.js",
-        "flatModuleId": "ngx-image-drawing"
+        "flatModuleId": "ngx-image-drawing",
+        "enableIvy": true,
+        "compilationMode": "partial"
     }
 }
